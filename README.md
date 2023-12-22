@@ -13,8 +13,5 @@ This repository contains a basic implementation sample for Oracle Cloud Infrastr
 
 ```bash
 oci network vcn create --cidr-block "10.0.0.0/16" --display-name "MyVCN" --compartment-id <your-compartment-id>
-
-### 1. Create a Virtual Cloud Network (VCN):
-
-```bash
-oci network vcn create --cidr-block "10.0.0.0/16" --display-name "MyVCN" --compartment-id <your-compartment-id>
+```
+---
